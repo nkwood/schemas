@@ -1,6 +1,6 @@
 # schemas
 
-SQL schemas used by various [RadioWitness.io](https://radiowitness.io) services.
+SQL schemas used by various [Radio Witness](https://radiowitness.io) services.
 
 ## License
 
